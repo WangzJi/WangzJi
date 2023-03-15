@@ -11,8 +11,6 @@
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
-<!-- My![Visitor Count](https://profile-counter.glitch.me/WangzJi/count.svg)visitor -->
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangzJi&layout=compact)](https://github.com/WangzJi/github-readme-stats) -->
 
