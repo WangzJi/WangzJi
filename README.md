@@ -7,7 +7,7 @@
 - ⚡ Go / Java.
 - 🖋 
 - ✍️ [Blogger](https://niceu.wang)
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
+- 🏃 Sailing / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
