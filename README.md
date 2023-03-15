@@ -6,7 +6,7 @@
 - 🍻 
 - ⚡ Go / Java.
 - 🖋 
-- ✍️ [Blogger](https://haysc.tech)
+- ✍️ [Blogger](https://niceu.wang)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
