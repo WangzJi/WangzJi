@@ -5,7 +5,7 @@
 
 - 🍻 
 - ⚡ Go / Java.
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
+- 🖋 
 - ✍️ [Blogger](https://haysc.tech)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
