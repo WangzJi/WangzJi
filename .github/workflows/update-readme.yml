@@ -14,21 +14,17 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 10
-          TARGET_FILE: "README.md"
+          CONFIG_FILE: '.github/recent-activity.config.yml'
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet && git diff --staged --quiet || (git config user.name "github-actions[bot]" && git config user.email "41898282+github-actions[bot]@users.noreply.github.com" && git add README.md && git commit -m "⚡ Update README with recent activity" && git push)
