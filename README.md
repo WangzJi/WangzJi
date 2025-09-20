@@ -13,8 +13,8 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3025](https://github.com/apache/dubbo-go/issues/3025) in [apache/dubbo-go](https://github.com/apache/dubbo-go)
-2. 💪 Opened PR [#13667](https://github.com/alibaba/nacos/pull/13667) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🗣 Commented on [#7641](https://github.com/apache/incubator-seata/issues/7641#issuecomment-3310367986) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+2. ❗ Opened issue [#3025](https://github.com/apache/dubbo-go/issues/3025) in [apache/dubbo-go](https://github.com/apache/dubbo-go)
 3. 🗣 Commented on [#2859](https://github.com/eosphoros-ai/DB-GPT/issues/2859#issuecomment-3135238497) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 4. 🗣 Commented on [#2775](https://github.com/eosphoros-ai/DB-GPT/issues/2775#issuecomment-3135230520) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 5. 🗣 Commented on [#13543](https://github.com/alibaba/nacos/issues/13543#issuecomment-3087230535) in [alibaba/nacos](https://github.com/alibaba/nacos)
