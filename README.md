@@ -13,9 +13,9 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7705](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-2. 💪 Opened PR [#7701](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-3. 🗣 Commented on [#7641](https://github.com/apache/incubator-seata/issues/7641#issuecomment-3310367986) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+1. 💪 Opened PR [#7718](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+2. 💪 Opened PR [#7705](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+3. 💪 Opened PR [#7701](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 4. 🗣 Commented on [#2879](https://github.com/eosphoros-ai/DB-GPT/pull/2879#issuecomment-3305532677) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 5. 🗣 Commented on [#13543](https://github.com/alibaba/nacos/issues/13543#issuecomment-3087230535) in [alibaba/nacos](https://github.com/alibaba/nacos)
 6. 🗣 Commented on [#2848](https://github.com/eosphoros-ai/DB-GPT/pull/2848#issuecomment-3077249874) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
