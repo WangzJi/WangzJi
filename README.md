@@ -13,15 +13,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#7809](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-2. ❌ Labeled PR [#7779](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-3. ❌ Labeled PR [#7779](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4.  Labeled issue [#7646](https://github.com/apache/incubator-seata/issues/7646) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5.  Assigned issue [#7646](https://github.com/apache/incubator-seata/issues/7646) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-6. 🔒 Closed issue [#940](https://github.com/apache/incubator-seata-go/issues/940) in [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go)
-7. 🔓 Reopened issue [#940](https://github.com/apache/incubator-seata-go/issues/940) in [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go)
-8. 🔒 Closed issue [#940](https://github.com/apache/incubator-seata-go/issues/940) in [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go)
-9. 🗣 Commented on [#971](https://github.com/apache/incubator-seata-go/pull/971#issuecomment-3550478814) in [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go)
-10. 💪 Opened PR [#7788](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+1. 🗣 Commented on [#2859](https://github.com/eosphoros-ai/DB-GPT/issues/2859#issuecomment-3596188885) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
+2. 🗣 Commented on [#2859](https://github.com/eosphoros-ai/DB-GPT/issues/2859#issuecomment-3594358075) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
+3. 🗣 Commented on [#2859](https://github.com/eosphoros-ai/DB-GPT/issues/2859#issuecomment-3594308028) in [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
+4. ❌ Labeled PR [#7809](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+5. ❌ Labeled PR [#7779](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+6. ❌ Labeled PR [#7779](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+7.  Labeled issue [#7646](https://github.com/apache/incubator-seata/issues/7646) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+8.  Assigned issue [#7646](https://github.com/apache/incubator-seata/issues/7646) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+9. 🔒 Closed issue [#940](https://github.com/apache/incubator-seata-go/issues/940) in [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go)
+10. 🔓 Reopened issue [#940](https://github.com/apache/incubator-seata-go/issues/940) in [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go)
 <!--END_SECTION:activity-->
 
