@@ -8,7 +8,6 @@
 - 🏃 Sailing / Badminton / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess
-
 <br/>
 
 ## 🖥️ Recently working on
