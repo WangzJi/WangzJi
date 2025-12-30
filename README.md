@@ -12,15 +12,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7905](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-2. 💪 Opened PR [#720](undefined) in [apache/incubator-seata-samples](https://github.com/apache/incubator-seata-samples)
-3. 🗣 Commented on [#7894](https://github.com/apache/incubator-seata/pull/7894#issuecomment-3694439501) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4. 💪 Opened PR [#7905](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. ❌ Closed PR [#10](undefined) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
-6. 💪 Opened PR [#10](undefined) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
-7. ❌ Closed PR [#15521](undefined) in [apache/dubbo](https://github.com/apache/dubbo)
-8. 🗣 Commented on [#14056](https://github.com/alibaba/nacos/pull/14056#issuecomment-3692498741) in [alibaba/nacos](https://github.com/alibaba/nacos)
-9. 🗣 Commented on [#14056](https://github.com/alibaba/nacos/pull/14056#issuecomment-3692107193) in [alibaba/nacos](https://github.com/alibaba/nacos)
-10. 🗣 Commented on [#14056](https://github.com/alibaba/nacos/pull/14056#issuecomment-3692097982) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. ❗ Opened issue [#14079](https://github.com/alibaba/nacos/issues/14079) in [alibaba/nacos](https://github.com/alibaba/nacos)
+2. ❗ Opened issue [#14078](https://github.com/alibaba/nacos/issues/14078) in [alibaba/nacos](https://github.com/alibaba/nacos)
+3. 🔓 Reopened issue [#14077](https://github.com/alibaba/nacos/issues/14077) in [alibaba/nacos](https://github.com/alibaba/nacos)
+4. 🔒 Closed issue [#14077](https://github.com/alibaba/nacos/issues/14077) in [alibaba/nacos](https://github.com/alibaba/nacos)
+5. ❗ Opened issue [#14077](https://github.com/alibaba/nacos/issues/14077) in [alibaba/nacos](https://github.com/alibaba/nacos)
+6. ❌ Merged PR [#14056](undefined) in [alibaba/nacos](https://github.com/alibaba/nacos)
+7. ❌ Merged PR [#7905](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+8. 💪 Opened PR [#720](undefined) in [apache/incubator-seata-samples](https://github.com/apache/incubator-seata-samples)
+9. 🗣 Commented on [#7894](https://github.com/apache/incubator-seata/pull/7894#issuecomment-3694439501) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+10. 💪 Opened PR [#7905](undefined) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 <!--END_SECTION:activity-->
 
