@@ -12,15 +12,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14125](https://github.com/alibaba/nacos/pull/14125) in [alibaba/nacos](https://github.com/alibaba/nacos)
-2. 🗣 Commented on [#14054](https://github.com/alibaba/nacos/issues/14054#issuecomment-3833573544) in [alibaba/nacos](https://github.com/alibaba/nacos)
-3. 🗣 Commented on [#14054](https://github.com/alibaba/nacos/issues/14054#issuecomment-3816581950) in [alibaba/nacos](https://github.com/alibaba/nacos)
-4. 🗣 Commented on [#7594](https://github.com/apache/incubator-seata/issues/7594#issuecomment-3799900598) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. 🗣 Commented on [#14054](https://github.com/alibaba/nacos/issues/14054#issuecomment-3798291121) in [alibaba/nacos](https://github.com/alibaba/nacos)
-6. 💪 Opened PR [#1036](https://github.com/nacos-group/nacos-group.github.io/pull/1036) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
-7. 💪 Opened PR [#5307](https://github.com/spring-projects/spring-ai/pull/5307) in [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)
-8. 🎉 Merged PR [#7865](https://github.com/apache/incubator-seata/pull/7865) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-9. 💪 Opened PR [#14125](https://github.com/alibaba/nacos/pull/14125) in [alibaba/nacos](https://github.com/alibaba/nacos)
-10. 🎉 Merged PR [#14117](https://github.com/alibaba/nacos/pull/14117) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🎉 Merged PR [#1036](https://github.com/nacos-group/nacos-group.github.io/pull/1036) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
+2. 🎉 Merged PR [#14125](https://github.com/alibaba/nacos/pull/14125) in [alibaba/nacos](https://github.com/alibaba/nacos)
+3. 🗣 Commented on [#14054](https://github.com/alibaba/nacos/issues/14054#issuecomment-3833573544) in [alibaba/nacos](https://github.com/alibaba/nacos)
+4. 🗣 Commented on [#14054](https://github.com/alibaba/nacos/issues/14054#issuecomment-3816581950) in [alibaba/nacos](https://github.com/alibaba/nacos)
+5. 🗣 Commented on [#7594](https://github.com/apache/incubator-seata/issues/7594#issuecomment-3799900598) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+6. 🗣 Commented on [#14054](https://github.com/alibaba/nacos/issues/14054#issuecomment-3798291121) in [alibaba/nacos](https://github.com/alibaba/nacos)
+7. 💪 Opened PR [#1036](https://github.com/nacos-group/nacos-group.github.io/pull/1036) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
+8. 💪 Opened PR [#5307](https://github.com/spring-projects/spring-ai/pull/5307) in [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)
+9. 🎉 Merged PR [#7865](https://github.com/apache/incubator-seata/pull/7865) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+10. 💪 Opened PR [#14125](https://github.com/alibaba/nacos/pull/14125) in [alibaba/nacos](https://github.com/alibaba/nacos)
 <!--END_SECTION:activity-->
 
