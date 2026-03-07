@@ -12,15 +12,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14527](https://github.com/alibaba/nacos/pull/14527) in [alibaba/nacos](https://github.com/alibaba/nacos)
-2. 🗣 Commented on [#7974](https://github.com/apache/incubator-seata/pull/7974#issuecomment-3995769679) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-3. 🔒 Closed issue [#6505](https://github.com/apache/incubator-seata/issues/6505) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4. ℹ️ Unlabeled issue [#6505](https://github.com/apache/incubator-seata/issues/6505) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. 🎉 Merged PR [#7915](https://github.com/apache/incubator-seata/pull/7915) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-6. 💪 Opened PR [#14527](https://github.com/alibaba/nacos/pull/14527) in [alibaba/nacos](https://github.com/alibaba/nacos)
-7. 🗣 Commented on [#7995](https://github.com/apache/incubator-seata/pull/7995#issuecomment-3981847716) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-8. ℹ️ Labeled PR [#7995](https://github.com/apache/incubator-seata/pull/7995) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-9. ℹ️ Labeled PR [#7995](https://github.com/apache/incubator-seata/pull/7995) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-10. ℹ️ Labeled PR [#7995](https://github.com/apache/incubator-seata/pull/7995) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+1. ❗ Opened issue [#8012](https://github.com/apache/incubator-seata/issues/8012) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+2. ℹ️ Labeled issue [#8011](https://github.com/apache/incubator-seata/issues/8011) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+3. ℹ️ Labeled issue [#8010](https://github.com/apache/incubator-seata/issues/8010) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+4. ℹ️ Labeled issue [#8009](https://github.com/apache/incubator-seata/issues/8009) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+5. ❗ Opened issue [#8011](https://github.com/apache/incubator-seata/issues/8011) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+6. ❗ Opened issue [#8010](https://github.com/apache/incubator-seata/issues/8010) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+7. ❗ Opened issue [#8009](https://github.com/apache/incubator-seata/issues/8009) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+8. ❗ Opened issue [#14](https://github.com/WangzJi/incubator-seata/issues/14) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
+9. ❗ Opened issue [#13](https://github.com/WangzJi/incubator-seata/issues/13) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
+10. ❗ Opened issue [#12](https://github.com/WangzJi/incubator-seata/issues/12) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
 <!--END_SECTION:activity-->
 
