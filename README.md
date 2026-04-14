@@ -12,15 +12,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1069](https://github.com/nacos-group/nacos-group.github.io/pull/1069) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
-2. 💪 Opened PR [#14912](https://github.com/alibaba/nacos/pull/14912) in [alibaba/nacos](https://github.com/alibaba/nacos)
-3. 🗣 Commented on [#8042](https://github.com/apache/incubator-seata/pull/8042#issuecomment-4231005859) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4. 🗣 Commented on [#8042](https://github.com/apache/incubator-seata/pull/8042#issuecomment-4225509842) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. ℹ️ Labeled PR [#8042](https://github.com/apache/incubator-seata/pull/8042) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-6. ℹ️ Labeled PR [#8042](https://github.com/apache/incubator-seata/pull/8042) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-7. 🎉 Merged PR [#8044](https://github.com/apache/incubator-seata/pull/8044) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-8. 💪 Opened PR [#8044](https://github.com/apache/incubator-seata/pull/8044) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-9. ℹ️ Assigned issue [#8040](https://github.com/apache/incubator-seata/issues/8040) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-10. 🗣 Commented on [#8040](https://github.com/apache/incubator-seata/issues/8040#issuecomment-4182071458) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+1. 🎉 Merged PR [#1069](https://github.com/nacos-group/nacos-group.github.io/pull/1069) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
+2. 🎉 Merged PR [#14912](https://github.com/alibaba/nacos/pull/14912) in [alibaba/nacos](https://github.com/alibaba/nacos)
+3. 💪 Opened PR [#1069](https://github.com/nacos-group/nacos-group.github.io/pull/1069) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
+4. 💪 Opened PR [#14912](https://github.com/alibaba/nacos/pull/14912) in [alibaba/nacos](https://github.com/alibaba/nacos)
+5. 🗣 Commented on [#8042](https://github.com/apache/incubator-seata/pull/8042#issuecomment-4231005859) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+6. 🗣 Commented on [#8042](https://github.com/apache/incubator-seata/pull/8042#issuecomment-4225509842) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+7. ℹ️ Labeled PR [#8042](https://github.com/apache/incubator-seata/pull/8042) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+8. ℹ️ Labeled PR [#8042](https://github.com/apache/incubator-seata/pull/8042) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+9. 🎉 Merged PR [#8044](https://github.com/apache/incubator-seata/pull/8044) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+10. 💪 Opened PR [#8044](https://github.com/apache/incubator-seata/pull/8044) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 <!--END_SECTION:activity-->
 
