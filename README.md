@@ -12,15 +12,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#8062](https://github.com/apache/incubator-seata/pull/8062) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-2. ℹ️ Labeled PR [#8062](https://github.com/apache/incubator-seata/pull/8062) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-3. 🔒 Closed issue [#8040](https://github.com/apache/incubator-seata/issues/8040) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4. ℹ️ Labeled PR [#8052](https://github.com/apache/incubator-seata/pull/8052) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. ℹ️ Labeled PR [#8052](https://github.com/apache/incubator-seata/pull/8052) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-6. 🔒 Closed issue [#8039](https://github.com/apache/incubator-seata/issues/8039) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-7. ℹ️ Assigned issue [#8009](https://github.com/apache/incubator-seata/issues/8009) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-8. 🗣 Commented on [#7981](https://github.com/apache/incubator-seata/pull/7981#issuecomment-4242696752) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-9. 🎉 Merged PR [#1069](https://github.com/nacos-group/nacos-group.github.io/pull/1069) in [nacos-group/nacos-group.github.io](https://github.com/nacos-group/nacos-group.github.io)
-10. 🎉 Merged PR [#14912](https://github.com/alibaba/nacos/pull/14912) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🔒 Closed issue [#8009](https://github.com/apache/incubator-seata/issues/8009) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+2. ℹ️ Unassigned issue [#8010](https://github.com/apache/incubator-seata/issues/8010) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+3. ℹ️ Assigned issue [#8010](https://github.com/apache/incubator-seata/issues/8010) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+4. ℹ️ Assigned issue [#8010](https://github.com/apache/incubator-seata/issues/8010) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+5. ℹ️ Labeled issue [#8012](https://github.com/apache/incubator-seata/issues/8012) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+6. 🗣 Commented on [#14774](https://github.com/alibaba/nacos/issues/14774#issuecomment-4332475094) in [alibaba/nacos](https://github.com/alibaba/nacos)
+7. ℹ️ Labeled PR [#8062](https://github.com/apache/incubator-seata/pull/8062) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+8. ℹ️ Labeled PR [#8062](https://github.com/apache/incubator-seata/pull/8062) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+9. 🔒 Closed issue [#8040](https://github.com/apache/incubator-seata/issues/8040) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+10. ℹ️ Labeled PR [#8052](https://github.com/apache/incubator-seata/pull/8052) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 <!--END_SECTION:activity-->
 
