@@ -12,8 +12,8 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#8183](https://github.com/apache/incubator-seata/pull/8183) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-2. ℹ️ Labeled PR [#8183](https://github.com/apache/incubator-seata/pull/8183) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+1. 💪 Opened PR [#4352](https://github.com/apache/maka/pull/4352) in [apache/maka](https://github.com/apache/maka)
+2. 🗣 Commented on [#3911](https://github.com/apache/maka/issues/3911#issuecomment-5477072584) in [apache/maka](https://github.com/apache/maka)
 3. 🗣 Commented on [#8183](https://github.com/apache/incubator-seata/pull/8183#issuecomment-5115147271) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 4. 💪 Opened PR [#8183](https://github.com/apache/incubator-seata/pull/8183) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 5. 🗣 Commented on [#8151](https://github.com/apache/incubator-seata/pull/8151#issuecomment-5076590533) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
