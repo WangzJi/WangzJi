@@ -12,7 +12,7 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/WangzJi/incubator-seata/pull/15) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
+1. 🎉 Merged PR [#8183](https://github.com/apache/incubator-seata/pull/8183) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 2. 💪 Opened PR [#15](https://github.com/WangzJi/incubator-seata/pull/15) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
 3. 🎉 Merged PR [#8301](https://github.com/apache/incubator-seata/pull/8301) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 4. 💪 Opened PR [#8301](https://github.com/apache/incubator-seata/pull/8301) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
