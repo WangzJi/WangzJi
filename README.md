@@ -12,15 +12,15 @@
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8183](https://github.com/apache/incubator-seata/pull/8183) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-2. 💪 Opened PR [#15](https://github.com/WangzJi/incubator-seata/pull/15) in [WangzJi/incubator-seata](https://github.com/WangzJi/incubator-seata)
-3. 🎉 Merged PR [#8301](https://github.com/apache/incubator-seata/pull/8301) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4. 💪 Opened PR [#8301](https://github.com/apache/incubator-seata/pull/8301) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. ℹ️ Labeled PR [#8269](https://github.com/apache/incubator-seata/pull/8269) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-6. ℹ️ Labeled PR [#8265](https://github.com/apache/incubator-seata/pull/8265) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-7. ℹ️ Labeled PR [#8243](https://github.com/apache/incubator-seata/pull/8243) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-8. ℹ️ Labeled PR [#8246](https://github.com/apache/incubator-seata/pull/8246) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-9. ℹ️ Labeled PR [#8248](https://github.com/apache/incubator-seata/pull/8248) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-10. ℹ️ Labeled PR [#8250](https://github.com/apache/incubator-seata/pull/8250) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+1. 🔒 Closed issue [#8325](https://github.com/apache/incubator-seata/issues/8325) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+2. 🔒 Closed issue [#7542](https://github.com/apache/incubator-seata/issues/7542) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+3. ℹ️ Labeled PR [#8326](https://github.com/apache/incubator-seata/pull/8326) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+4. ℹ️ Labeled PR [#8321](https://github.com/apache/incubator-seata/pull/8321) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+5. ℹ️ Labeled PR [#8302](https://github.com/apache/incubator-seata/pull/8302) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+6. ℹ️ Labeled PR [#8302](https://github.com/apache/incubator-seata/pull/8302) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+7. ℹ️ Labeled PR [#8198](https://github.com/apache/incubator-seata/pull/8198) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+8. ℹ️ Labeled PR [#8198](https://github.com/apache/incubator-seata/pull/8198) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+9. ℹ️ Labeled PR [#8329](https://github.com/apache/incubator-seata/pull/8329) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+10. 🎉 Merged PR [#8183](https://github.com/apache/incubator-seata/pull/8183) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 <!--END_SECTION:activity-->
 
